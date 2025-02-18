@@ -33,14 +33,21 @@ Before you begin, ensure you have the following installed on your machine:
 3. **Initialize Terraform**:
    
    Initialize the Terraform configuration by running:
+   ```sh
    terraform init
 
-4.  **Review the Terraform plan**:
-    Generate and review the execution plan by running: terraform plan
+5.  **Review the Terraform plan**:
+    Generate and review the execution plan by running:
+    ```sh
+    terraform plan
 
-5.   **Apply the Terraform configuration**: 
-   Apply the Terraform configuration to create the resources: terraform apply
+7.   **Apply the Terraform configuration**: 
+   Apply the Terraform configuration to create the resources:
+```sh
+terraform apply
+```
+8. **Destroying the Infrastructure**
 
-**Destroying the Infrastructure**
-
-To destroy the VPC and all associated resources, run the following command: terraform destroy
+To destroy the VPC and all associated resources, run the following command:
+```sh
+terraform destroy
