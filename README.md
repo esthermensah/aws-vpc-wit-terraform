@@ -1,3 +1,5 @@
+![Screenshot 2025-02-18 130050](https://github.com/user-attachments/assets/1831f533-abac-4547-baf6-328489b62992)
+
 # aws-vpc-with-terraform
 
 This project contains Terraform configuration files to create and manage an AWS Virtual Private Cloud (VPC) with public and private subnets, an internet gateway, and route tables.
